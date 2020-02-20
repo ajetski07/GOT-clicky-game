@@ -1,1 +1,1 @@
-# lebowski-clicky-game
+# Lebowski-Clicky-Game
