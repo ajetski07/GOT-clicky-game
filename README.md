@@ -1,1 +1,1 @@
-# Lebowski-Clicky-Game
+# Game of Thrones | React Clicky Game
