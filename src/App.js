@@ -118,7 +118,7 @@ class App extends Component {
           ))}
         </GridMDC>
         <BottomNavMDC style={{ background: "#313133", marginTop: "17.5px", paddingTop: "15px", borderTop: "2.5px solid slategray" }}>
-          <a href="" target="_blank" className="link"><i className="fa fa-github fa-2x"></i></a>
+          <a href="https://github.com/ajetski07/GOT-clicky-game" target="_blank" className="link"><i className="fa fa-github fa-2x"></i></a>
         </BottomNavMDC>
 
       </div>
